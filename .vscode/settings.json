@@ -1,0 +1,13 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingQuotes": "always",
+    "editor.defaultFormatter": "formulahendry.auto-close-tag",
+    "editor.linkedEditing": true,
+    "html.format.indentHandlebars": true,
+    "html.format.indentInnerHtml": true,
+    "html.format.templating": true,
+    "html.format.wrapAttributes": "force"
+}
